@@ -16,7 +16,7 @@
       "country": "Malaysia"
     },
     "website": "",
-    "resumedownload": "https://www.dropbox.com/s/mqnjen0vps4h360/my_new_resume_advanced_webdev_v4.pdf?dl=0",
+    "resumedownload": "https://www.dropbox.com/s/5361120u0ai1xqp/My_New_Resume_advanced_webdev.pdf?dl=0",
     "social": [
       {
         "name": "facebook",
@@ -41,7 +41,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Skill that helps",
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
         "school": "Open University Malaysia",
